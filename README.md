@@ -1,1 +1,1 @@
-# React APplication with simple Youtube API search
+# React Application with simple Youtube API search
